@@ -1,8 +1,24 @@
 <h1 align="left">Hi 👋, I'm Felix</h1>
-<h3 align="left">Research Student @University of Cambridge</h3>
+<h3 align="left">Research Student @ University of Cambridge</h3>
+<h5 align="left">
+  Check out my website 
+  <a href="https://www.felixburton.com/" target="_blank">felixburton.com</a>
+</h5>
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/felix-burton-353a7016b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25">
+  <!-- LinkedIn Icon -->
+  <a href="https://www.linkedin.com/in/felix-burton-353a7016b/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         height="28" 
+         alt="LinkedIn"
+         style="margin-right:10px;">
+  </a>
+
+  <!-- Website Icon -->
+  <a href="https://www.felixburton.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" 
+         height="28" 
+         alt="Website">
   </a>
 </p>
 
